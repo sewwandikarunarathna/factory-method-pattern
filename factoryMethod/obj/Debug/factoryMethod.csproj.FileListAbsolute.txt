@@ -1,0 +1,2 @@
+D:\quadrate\factory\factoryMethod\factoryMethod\obj\Debug\factoryMethod.csprojAssemblyReference.cache
+D:\quadrate\factory\factoryMethod\factoryMethod\obj\Debug\factoryMethod.csproj.CoreCompileInputs.cache
